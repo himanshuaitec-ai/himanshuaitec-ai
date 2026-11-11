@@ -55,17 +55,23 @@
 </div>
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=himanshuaitec-ai&theme=tokyonight&no-frame=true&row=1)
+<p align="center">
+  <a href="https://github.com/himanshuaitec-ai">
+    <img src="https://komarev.com/ghpvc/?username=himanshuaitec-ai&label=Profile%20Views&color=blue&style=for-the-badge" />
+  </a>
+</p>
 
-## 👀 Profile Visitors
-
-![Visitors](https://komarev.com/ghpvc/?username=himanshuaitec-ai&color=blue&style=for-the-badge)
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshuaitec-ai&theme=tokyo-night)
+<p align="center">
+  <a href="https://github.com/himanshuaitec-ai?tab=repositories">
+    🚀 Explore My Repositories
+  </a>
+  |
+  <a href="https://github.com/himanshuaitec-ai?tab=activity">
+    📊 View My Activity
+  </a>
+</p>
 
 ---
 
