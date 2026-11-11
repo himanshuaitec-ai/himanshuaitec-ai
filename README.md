@@ -53,3 +53,24 @@
 **Keep Learning | Keep Building | Keep Growing 🚀**
 
 </div>
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=himanshuaitec-ai&theme=tokyonight&no-frame=true&row=1)
+
+## 👀 Profile Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=himanshuaitec-ai&color=blue&style=for-the-badge)
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshuaitec-ai&theme=tokyo-night)
+
+---
+
+<div align="center">
+
+### 💡 Keep Learning. Keep Building. Keep Growing.
+
+</div>
