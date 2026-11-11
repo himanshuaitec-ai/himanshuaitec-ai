@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**himanshuaitec-ai/himanshuaitec-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Himanshu Kumar
 
-Here are some ideas to get you started:
+### Aspiring Software Developer | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Turning Ideas into Innovation through Code.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/himanshuaitec-ai)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Engineering Student
+- 💻 Learning C, Python and Web Development
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🚁 Exploring Drone Technology and Computer Vision
+- 🌱 Building real-world projects
+- 🎯 Working towards becoming a Software Engineer
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode" />
+</p>
+
+## 🚀 Featured Projects
+
+- 🤖 AI-Based Projects
+- 🚁 Drone Boundary Detection
+- 🌐 Web Development
+- 💻 Programming Projects
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshuaitec-ai&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuaitec-ai&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/himanshuaitec-ai)
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+**Keep Learning | Keep Building | Keep Growing 🚀**
+
+</div>
